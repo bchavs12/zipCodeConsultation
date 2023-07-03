@@ -1,0 +1,10 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "find your adress",
+  "main": "app.js",
+  "repository": "https://github.com/bchavs12/zipCodeConsultation.git",
+  "author": "BSystems",
+  "license": "MIT",
+  "private": false
+}
